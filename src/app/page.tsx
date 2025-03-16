@@ -107,6 +107,6 @@
 export default function Home() {
 
   return(
-    <h1> hello composite!</h1>
+    <h1> Hello Composite!</h1>
   );
 }
